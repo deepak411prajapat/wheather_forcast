@@ -27,3 +27,4 @@ const displayData=(weather)=>{
 
 
     
+
